@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\App10\App10\App10\bin\Debug\netstandard2.0\App10.deps.json
+C:\Users\hp\source\repos\App10\App10\App10\bin\Debug\netstandard2.0\App10.dll
+C:\Users\hp\source\repos\App10\App10\App10\bin\Debug\netstandard2.0\ref\App10.dll
+C:\Users\hp\source\repos\App10\App10\App10\bin\Debug\netstandard2.0\App10.pdb
+C:\Users\hp\source\repos\App10\App10\App10\obj\Debug\netstandard2.0\App10.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\App10\App10\App10\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\hp\source\repos\App10\App10\App10\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\hp\source\repos\App10\App10\App10\obj\Debug\netstandard2.0\App10.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\App10\App10\App10\obj\Debug\netstandard2.0\App10.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\App10\App10\App10\obj\Debug\netstandard2.0\App10.AssemblyInfo.cs
+C:\Users\hp\source\repos\App10\App10\App10\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\hp\source\repos\App10\App10\App10\obj\Debug\netstandard2.0\App10.dll
+C:\Users\hp\source\repos\App10\App10\App10\obj\Debug\netstandard2.0\ref\App10.dll
+C:\Users\hp\source\repos\App10\App10\App10\obj\Debug\netstandard2.0\App10.pdb
